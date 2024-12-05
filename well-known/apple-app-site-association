@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "3FCTZNC8Z2.com.onBoardian.onBoardian"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {"/": "/*"}
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "3FCTZNC8Z2.com.onBoardian.onBoardian"
+        ]
+    }
+}

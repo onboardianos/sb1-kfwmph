@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.onboarding",
+        "sha256_cert_fingerprints": [
+          "83:8F:3F:52:A4:1F:DD:70:2F:29:7C:28:B4:8C:AB:DE:19:DF:42:7D:58:26:96:14:E7:6A:62:F2:BC:A3:7A:F8"
+        ]
+      }
+    }
+  ]
